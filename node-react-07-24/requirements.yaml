@@ -2,4 +2,4 @@ dependencies:
   - name: node-react-07-24
     repository: >-
       https://artifactory-tools.cloudnative-bootcamp-oc-150b083ac678ea7b4eec6a501d7ab433-0000.us-east.containers.appdomain.cloud/artifactory/generic-local/carlos-test1
-    version: 0.0.2
+    version: 0.0.3
