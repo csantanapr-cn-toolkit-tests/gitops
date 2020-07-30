@@ -1,0 +1,5 @@
+node-react-07-24:
+  replicaCount: 1
+  route:
+    enabled: true
+
