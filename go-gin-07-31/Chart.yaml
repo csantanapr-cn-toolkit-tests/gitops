@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: go-gin-07-31
+description: Chart to configure ArgoCD with the go-gin-07-31 project and its applications
