@@ -1,0 +1,5 @@
+inventory-bff-07-30:
+  replicaCount: 1
+  route:
+    enabled: true
+
