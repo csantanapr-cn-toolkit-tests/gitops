@@ -2,4 +2,4 @@ dependencies:
   - name: go-gin-07-31
     version: 0.0.1
     repository: >-
-      https://artifactory-tools.cloudnative-bootcamp-oc-150b083ac678ea7b4eec6a501d7ab433-0000.us-east.containers.appdomain.cloud/artifactory/generic-local/cloudnative-bootcamp-cntk
+      https://artifactory-tools.cloudnative-bootcamp-oc-150b083ac678ea7b4eec6a501d7ab433-0000.us-east.containers.appdomain.cloud/artifactory/generic-local/carlos-test1
