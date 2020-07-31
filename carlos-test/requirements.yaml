@@ -1,0 +1,5 @@
+dependencies:
+  - name: carlos-test
+    version: 1.0.10
+    repository: >-
+      https://foo.com

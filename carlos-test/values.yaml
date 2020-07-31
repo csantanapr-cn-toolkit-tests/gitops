@@ -1,0 +1,3 @@
+global: {}
+carlos-test:
+  replicaCount: 1
